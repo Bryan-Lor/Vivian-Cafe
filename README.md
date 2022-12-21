@@ -11,6 +11,8 @@ I decided to make a business site for a coffee and bar shop. From wireframe to 
   
 **Technologies Used:** HTML 5, CSS, Photoshop
 
+![Vivian Cafe Home](images/viviancafe_capture.PNG)
+
 ### Visit the page on...   
 **Deployed Website:** https://bryan-lor.maca-web.com/web1/showcase/index.html  
 **Github Pages:**  https://bryan-lor.github.io/Vivian-Cafe/ 
