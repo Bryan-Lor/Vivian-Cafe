@@ -13,6 +13,6 @@ I decided to make a business site for a coffee and bar shop. From wireframe to 
 
 ![Vivian Cafe Home](images/viviancafe_capture.PNG)
 
-### Visit the page on...   
-**Deployed Website:** https://bryan-lor.maca-web.com/web1/showcase/index.html  
-**Github Pages:**  https://bryan-lor.github.io/Vivian-Cafe/ 
+### The Project Is Deployed!
+[![Deployed Website](https://img.shields.io/badge/View_Website-2C64BA?style=for-the-badge)](https://bryan-lor.maca-web.com/web1/showcase/index.html)
+[![GitHub Pages](https://img.shields.io/badge/view_github_pages-2C64BA?style=for-the-badge)](https://bryan-lor.maca-web.com/web1/showcase/index.html)
